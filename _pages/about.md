@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ou.edu/'>University of Oklahoma</a>. 660 Parrington Oval, Norman, OK 73019 U.S.A.
 
 profile:
   align: right
