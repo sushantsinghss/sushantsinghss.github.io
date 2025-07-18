@@ -1,4 +1,4 @@
-name: 'Updates from academic-CV'
+name: 'Updates from sushantsinghCV'
 
 on:
   workflow_dispatch:
