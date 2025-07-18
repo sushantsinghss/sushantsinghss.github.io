@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Please click on the icon on the top right to download my CV if it does not show up in your browser.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb538309ce64447934ece69da76f1/";
           },
         },{id: "nav-teaching",
           title: "teaching",
