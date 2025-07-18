@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Please click on the icon on the top right to download my CV if it does not show up in your browser.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/main.pdf";
           },
         },{id: "nav-publications",
           title: "publications",
