@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Please click on the icon on the top right to download my CV if it does not show up in your browser.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb538309ce64447934ece69da76f1/main.pdf";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
