@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /assets/pdf/main.pdf
-title: CV
+title: cv
 nav: true
 cv_pdf: main.pdf
 ---
