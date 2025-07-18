@@ -8,5 +8,5 @@ nav_order: 2
 cv_pdf: main.pdf
 ---
 <div style="width: 100%; height:800">
-<iframe src="https://sushantsinghss.github.io/assets/pdf/main.pdf" width="100%" height="800"></iframe>
+<iframe src="https://sushantsinghss.github.io/assets/pdf/main.pdf" width="100%" height="900"></iframe>
 </div>
