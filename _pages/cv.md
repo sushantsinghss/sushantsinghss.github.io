@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: cv
 permalink: /cv/
 title: cv
 description: Please click on the icon on the top right to download my CV if it does not show up in your browser.
