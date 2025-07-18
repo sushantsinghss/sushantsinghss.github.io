@@ -4,7 +4,7 @@ permalink: https://github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb53
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: [main.pdf](https://github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb538309ce64447934ece69da76f1/main.pdf)
+cv_pdf: https://github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb538309ce64447934ece69da76f1/main.pdf
 description:  Please click on the icon on the top right to download my CV if it does not show up in your browser.
 
 toc:
