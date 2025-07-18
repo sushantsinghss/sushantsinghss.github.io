@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb538309ce64447934ece69da76f1/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: <a href='https://github.com/sushantsinghss/sushantsinghCV/blob/1fcb446ad9ecb538309ce64447934ece69da76f1/main.pdf'>
+cv_pdf: main.pdf
 description:  Please click on the icon on the top right to download my CV if it does not show up in your browser.
 
 toc:
