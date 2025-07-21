@@ -28,7 +28,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Since August 2021, I am a graduate student in Economics at the [University of Oklahoma](https://ou.edu/). I am a Ph.D. Candidate in Economics, under the supervision of Prof. [Firat Demir](https://firatdemir.oucreate.com/).
+Since August 2021, I am a graduate student in Economics at the [University of Oklahoma](https://ou.edu/), where I am currently a Ph.D. candidate and graduate assistant under the supervision of Prof. [Firat Demir](https://firatdemir.oucreate.com/).
 
 Before that, I worked as a National Consultant at the [International Trade Center (UN/WTO)](https://www.intracen.org/) (March 2018 – July 2021). I completed my Masters in Economics at [University of Neuchâtel](https://www.unine.ch/) in 2018 and Bachelors at [Christ University](https://www.christuniversity.in/) in 2014.
 
