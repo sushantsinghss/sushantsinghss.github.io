@@ -30,8 +30,8 @@ latest_posts:
 ---
 Since August 2021, I am a graduate student in Economics at the [University of Oklahoma](https://ou.edu/). I am a Ph.D. Candidate in Economics, under the supervision of Prof. [Firat Demir](https://firatdemir.oucreate.com/).
 
-Before that, I worked as a National Consultant at the [International Trade Center (UN/WTO)](https://www.intracen.org/) (March 2018 – July 2021). I completed my Masters in Economics at [University of Neuchâtel](https://www.unine.ch/) and Bachelors at [Christ University](https://www.christuniversity.in/).
+Before that, I worked as a National Consultant at the [International Trade Center (UN/WTO)](https://www.intracen.org/) (March 2018 – July 2021). I completed my Masters in Economics at [University of Neuchâtel](https://www.unine.ch/) in 2018 and Bachelors at [Christ University](https://www.christuniversity.in/) in 2014.
 
 My areas of research are International Economics, Environmental Economics and Development Economics. I am particularly interested in studying how economic policy spillovers transcend national boundaries,  with a focus on the intersection of trade and environment.
 
-My research has been recognized with [Alexander J. Kondonassis](https://www.ohehs.org/hof/alexanderkondonassis.html) Award for research in Development Economics. I have taught undergraduate Microeconomics and Macroeconomics at the [University of Oklahoma](https://ou.edu/), [Islington College](https://islington.edu.np/) (affiliated with [London Metropolitan University](https://www.londonmet.ac.uk/)), and [Apex College](https://apexcollege.edu.np/) ( affliated with [Pokhara University](https://pu.edu.np/)).
+My research has been recognized with [Alexander J. Kondonassis](https://www.ohehs.org/hof/alexanderkondonassis.html) Award for research in Development Economics. I have taught undergraduate Microeconomics and Macroeconomics at the [University of Oklahoma](https://ou.edu/), [Islington College](https://islington.edu.np/) ([London Metropolitan University](https://www.londonmet.ac.uk/)), and [Apex College](https://apexcollege.edu.np/) ([Pokhara University](https://pu.edu.np/)).
