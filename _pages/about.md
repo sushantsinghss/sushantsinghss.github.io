@@ -8,7 +8,7 @@ subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. 660 Parrington 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ROOM 438 CCD1</p>
