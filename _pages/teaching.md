@@ -3,8 +3,8 @@ layout: page
 title: teaching
 permalink: /teaching/
 description: Here is a list of the courses that I taught in the past.
-nav: false
-nav_order: 3
+nav: true
+nav_order: 4
 display_categories: [ECON 1113 (Summer 24), ECON 1123 (Winter 23-24), ECON 1113 (Summer 23)]
 horizontal: false
 ---
