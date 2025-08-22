@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Here is a list of the courses that I taught in the past.
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [OU (Summer 24), OU (Winter 23-24), OU (Summer 23)]
 horizontal: false
 ---
