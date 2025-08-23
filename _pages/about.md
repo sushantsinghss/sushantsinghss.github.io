@@ -4,13 +4,13 @@ title: about
 permalink: /
 
 
-subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. 660 Parrington Oval, Norman, OK 73019 U.S.A.
+subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. ROOM 438 CCD1, 308 CATE CENTER DRIVE, Norman, OK 73071 U.S.A.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  more_info: >
+  # more_info: >
     <p>ROOM 438 CCD1</p>
     <p>308 CATE CENTER DRIVE</p>
     <p>Norman, OK 73071</p>
