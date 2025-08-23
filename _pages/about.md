@@ -11,9 +11,9 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   # more_info: >
-    <p>ROOM 438 CCD1</p>
-    <p>308 CATE CENTER DRIVE</p>
-    <p>Norman, OK 73071</p>
+   # <p>ROOM 438 CCD1</p>
+  #  <p>308 CATE CENTER DRIVE</p>
+  #  <p>Norman, OK 73071</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
