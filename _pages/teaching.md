@@ -3,7 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [UVA (Fall 21), UVA(Fall 22)]
 horizontal: false
