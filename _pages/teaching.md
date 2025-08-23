@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Here are the courses that I have taught.
+description: Here is a list of the courses that I taught in the past.
 nav: true
 nav_order: 3
 display_categories: [UVA (Fall 20)]
