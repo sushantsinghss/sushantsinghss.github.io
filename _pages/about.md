@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 
-subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. ROOM 438 CCD1, 308 Cate Center Drive, Norman, OK 73071 U.S.A.
+subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. ROOM 438 CCD1, 308 Cate Center Drive, Norman, OK 73019 U.S.A.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
   # more_info: >
    # <p>ROOM 438 CCD1</p>
   #  <p>308 CATE CENTER DRIVE</p>
-  #  <p>Norman, OK 73071</p>
+  #  <p>Norman, OK 73019</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
