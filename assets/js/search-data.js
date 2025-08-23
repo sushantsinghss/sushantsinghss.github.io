@@ -442,11 +442,11 @@ ninja.data = [{
           description: "Principles of Economics - Macro",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECON1113-300/";
-            },},{id: "projects-econ1123-800",
-          title: 'ECON1123-800',
+            },},{id: "projects-econ1123-850",
+          title: 'ECON1123-850',
           description: "Principles of Economics - Micro",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ECON1123-800/";
+              window.location.href = "/projects/ECON1123-850/";
             },},{
         id: 'social-email',
         title: 'email',
