@@ -1,11 +1,11 @@
 ---
 layout: page
-title: teaching
-permalink: /teaching/
-description: Here is a list of the courses that I taught in the past.
+title: projects
+permalink: /projects/
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [OU (Summer 24), OU (Winter 23-24), OU (Summer 23)]
+display_categories: [work, fun]
 horizontal: false
 ---
 
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.courses | where: "category", category %}
+  {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
