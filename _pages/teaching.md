@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A growing collection of your cool projects.
+description: Here is a list of the courses that I taught in the past or I am currently teaching.
 nav: true
 nav_order: 3
 display_categories: [OU (Summer 23), OU (Winter 23-24), OU (Summer 24)]
