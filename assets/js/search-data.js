@@ -432,6 +432,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-econ1113-200",
+          title: 'ECON1113-200',
+          description: "Principles of Economics - Macro",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ECON1113-200/";
             },},{id: "projects-econ1113-300",
           title: 'ECON1113-300',
           description: "Principles of Economics - Macro",
@@ -442,11 +447,6 @@ ninja.data = [{
           description: "Principles of Economics - Micro",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECON1123-800/";
-            },},{id: "projects-econ1113-200",
-          title: 'ECON1113-200',
-          description: "Principles of Economics - Macro",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/F21math3310/";
             },},{
         id: 'social-email',
         title: 'email',
