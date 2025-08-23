@@ -437,11 +437,11 @@ ninja.data = [{
           description: "Principles of Economics - Macro",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECON1113-300/";
-            },},{id: "projects-math-3310",
-          title: 'MATH 3310',
-          description: "Basic Real Analysis",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/F21math3310/";
+              window.location.href = "/projects/ECON113-800/";
             },},{
         id: 'social-email',
         title: 'email',
