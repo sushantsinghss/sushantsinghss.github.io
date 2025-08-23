@@ -5,7 +5,7 @@ permalink: /teaching/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [UVA (Fall 21), UVA(Fall 22)]
+display_categories: [OU (Summer 23), OU (Winter 23-24), OU (Summer 24)]
 horizontal: false
 ---
 
