@@ -432,9 +432,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-math-3310",
-          title: 'MATH 3310',
-          description: "Basic Real Analysis",
+            },},{id: "projects-econ1113-300",
+          title: 'ECON1113-300',
+          description: "Principles of Economics - Macro",
           section: "Projects",handler: () => {
               window.location.href = "/projects/F21math3310/";
             },},{
