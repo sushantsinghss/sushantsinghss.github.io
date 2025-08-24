@@ -432,9 +432,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-econ1113-200",
-          title: 'ECON1113-200',
-          description: "Principles of Economics - Macro",
+            },},{id: "projects-principles-of-economics-macro",
+          title: 'Principles of Economics - Macro',
+          description: "ECON1113-200",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECON1113-200/";
             },},{id: "projects-econ1113-300",
