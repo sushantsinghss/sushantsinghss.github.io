@@ -442,9 +442,9 @@ ninja.data = [{
           description: "ECON1113-300",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECON1113-300/";
-            },},{id: "projects-econ1123-850",
-          title: 'ECON1123-850',
-          description: "Principles of Economics - Micro",
+            },},{id: "projects-principles-of-economics-micro",
+          title: 'Principles of Economics - Micro',
+          description: "ECON1123-850",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ECON1123-850/";
             },},{
