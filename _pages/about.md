@@ -7,9 +7,9 @@ permalink: /
 subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. Room 438 CCD1, 308 Cate Center Drive, Norman, OK 73019 U.S.A.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
    # <p>ROOM 438 CCD1</p>
   #  <p>308 CATE CENTER DRIVE</p>
