@@ -9,7 +9,7 @@ subtitle: <a href='https://ou.edu/'> University of Oklahoma</a>. Room 438 CCD1, 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
    # <p>ROOM 438 CCD1</p>
   #  <p>308 CATE CENTER DRIVE</p>
