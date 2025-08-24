@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/sushantCV.pdf";
           },
-        },{id: "nav-publications",
-          title: "Publications",
+        },{id: "nav-research",
+          title: "Research",
           description: "Publications in reversed chronological order",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/research/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
