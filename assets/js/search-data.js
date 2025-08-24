@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/assets/pdf/sushantCV.pdf";
           },
         },{id: "nav-publications",
-          title: "Publications",
+          title: "publications",
           description: "publications in reversed chronological order",
           section: "Navigation",
           handler: () => {
