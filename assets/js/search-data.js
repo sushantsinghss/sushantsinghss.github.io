@@ -10,14 +10,14 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/assets/pdf/sushantCV.pdf";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "publications in reversed chronological order",
           section: "Navigation",
           handler: () => {
