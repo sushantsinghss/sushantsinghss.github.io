@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description:  Here is a list my research in reversed chronological order.
+description: 
 nav: true
 nav_order: 1
 ---
