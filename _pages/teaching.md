@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Here is a list of the courses that I taught in the past or I am currently teaching.
 nav: true
 nav_order: 3
-display_categories: [University of Oklahoma (Summer 24), University of Oklahoma (Winter 23-24), University of Oklahoma (Summer 23)]
+display_categories: [University of Oklahoma (Summer 24),University of Oklahoma (Winter 23-24),University of Oklahoma (Summer 23)]
 horizontal: false
 ---
 
