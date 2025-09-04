@@ -28,12 +28,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in Economics at the [University of Oklahoma](https://ou.edu/), under the supervision of Prof. [Firat Demir](https://firatdemir.oucreate.com/).
+I am a Ph.D. candidate in Economics at the [University of Oklahoma](https://ou.edu/), under the supervision of Prof. [Firat Demir](https://firatdemir.oucreate.com/). My areas of research are International Economics, Environmental Economics and Development Economics. I am particularly interested in studying how economic policy spillovers transcend national boundaries,  with a focus on the intersection of trade and environment.
 
 <strong>I am on the 2025–26 job market.</strong>
 
 Prior to my doctoral studies, I worked as a National Consultant at the [International Trade Center (UN/WTO)](https://www.intracen.org/) (March 2018 – July 2021). I completed my Masters in Economics at [University of Neuchâtel](https://www.unine.ch/) in 2018 and Bachelors at [Christ University](https://www.christuniversity.in/) in 2014.
-
-My areas of research are International Economics, Environmental Economics and Development Economics. I am particularly interested in studying how economic policy spillovers transcend national boundaries,  with a focus on the intersection of trade and environment.
 
 My research has been recognized with [Alexander J. Kondonassis](https://www.ohehs.org/hof/alexanderkondonassis.html) Award for research in Development Economics. I have taught undergraduate Microeconomics and Macroeconomics at the [University of Oklahoma](https://ou.edu/), [Islington College](https://islington.edu.np/) ([London Metropolitan University](https://www.londonmet.ac.uk/)), and [Apex College](https://apexcollege.edu.np/) ([Pokhara University](https://pu.edu.np/)).
