@@ -30,7 +30,7 @@ latest_posts:
 ---
 I am a Ph.D. candidate in Economics at the [University of Oklahoma](https://ou.edu/), under the supervision of Prof. [Firat Demir](https://firatdemir.oucreate.com/).
 
-I am on the [2025-26 job market](https://www.ou.edu/cas/economics/people/job-market-candidates).
+<strong>I am on the 2025–26 job market.</strong>
 
 Prior to my doctoral studies, I worked as a National Consultant at the [International Trade Center (UN/WTO)](https://www.intracen.org/) (March 2018 – July 2021). I completed my Masters in Economics at [University of Neuchâtel](https://www.unine.ch/) in 2018 and Bachelors at [Christ University](https://www.christuniversity.in/) in 2014.
 
