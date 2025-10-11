@@ -63,3 +63,12 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+
+
+
+### Some talks
+
++ ***Introduction to minimal surfaces and harmonic maps***, Workshop "Minimal surfaces in symmetric spaces and Labourie's conjecture" in Autrans. August 22-26, 2022 ([notes](https://drive.google.com/file/d/1fxvrFa1ogJ2LM0JLW-QivMh0XWdTCWyZ/view?usp=sharing))
+---
+
