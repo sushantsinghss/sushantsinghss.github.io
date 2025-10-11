@@ -94,7 +94,7 @@ horizontal: false
 ***Fall 2022 for Asst. Prof. Jayash Paudel***
 + ECON 3213-001 & 002 Environmental Economics
 
-***Fall 2022 for Asst. Prof. Mu-Jeung Yang}***
+***Fall 2022 for Asst. Prof. Mu-Jeung Yang***
 + ECON 4970-001 Economics of Capital Markets
 
 ***Spring 2022 for Dr. Samantha Johnson***
