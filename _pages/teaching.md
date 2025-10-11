@@ -65,10 +65,41 @@ horizontal: false
 </div>
 
 
-
-
-### Some talks
-
-+ ***Introduction to minimal surfaces and harmonic maps***, Workshop "Minimal surfaces in symmetric spaces and Labourie's conjecture" in Autrans. August 22-26, 2022 ([notes](https://drive.google.com/file/d/1fxvrFa1ogJ2LM0JLW-QivMh0XWdTCWyZ/view?usp=sharing))
 ---
+
+### Teaching Assistant (University of Oklahoma)
+
+***Fall 2025 for Dr. Ibrahim Kekec***
++ ECON 5213-001 Advanced Econometrics
++ ECON 5283-999 Data Visualization With Python
++ ECON 5023-001 Statistics for Decision Making
++ ECON 1113-003 Principles of Macroeconomics
+
+***Spring 2025 for Dr. Ibrahim Kekec***
++ ECON 4223-001 Econometric Analysis
++ ECON 5043-001 Managerial Economics II
++ ECON 1113-005 Principles of Macroeconomics
+
+***Fall 2024 for Dr. Ibrahim Kekec***
++ ECON 5213-001 Advanced Econometrics
++ ECON 5023-001 Statistics for Decision Making
+
+***Spring 2024 for Prof. Cynthia Rogers***
++ ECON 4353-001 Public Finance
++ ECON 4983-001 Economics as Social Science
+
+***Spring 2023 for Dr. Brent Norwood***
++ ECON 1113-002 Principles of Economics-Macro
+
+***Fall 2022 for Asst. Prof. Jayash Paudel***
++ ECON 3213-001 & 002 Environmental Economics
+
+***Fall 2022 for Asst. Prof. Mu-Jeung Yang}***
++ ECON 4970-001 Economics of Capital Markets
+
+***Spring 2022 for Dr. Samantha Johnson***
++ ECON 1123-004 Principles of Economics-Micro
+
+***Fall 2021 for Asst. Prof. Kevin Kuruc***
++ ECON 1113-002 & 003 Principles of Economics-Macro
 
