@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/sushantCV.pdf";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Here is a list of the courses that I taught in the past or I am currently teaching.",
