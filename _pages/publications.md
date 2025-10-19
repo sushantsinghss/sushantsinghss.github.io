@@ -29,11 +29,3 @@ nav_order: 1
 
 <br>
 
-
-## Works in Progress
-
-<div class="publications">
-
-{% bibliography -f wip.bib %}
-
-</div>
