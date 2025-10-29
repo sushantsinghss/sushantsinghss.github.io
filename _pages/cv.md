@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/sushantCV.pdf
+permalink: /assets/sushantCV/sushantCV.pdf
 title: CV
 nav: true
 cv_pdf: sushantCV.pdf
