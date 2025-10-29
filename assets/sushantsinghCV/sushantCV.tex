@@ -1,0 +1,131 @@
+\documentclass{prometheus_cv}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, left=3.5cm, right=2.5cm, top=2cm, bottom=2cm]{geometry}		% width=5.3in, height=10in, top margin=2cm on each page
+\usepackage{academicons}
+\usepackage{xcolor}	
+
+\definecolor{cardinal}{rgb}{0.77, 0.12, 0.23}
+\definecolor{highlight}{HTML}{283559}
+\definecolor{highlight2}{HTML}{1A2640}
+\definecolor{link}{HTML}{5C6273}
+
+\usepackage{lipsum}
+\usepackage{siunitx}							% package to properly set units
+\usepackage{fontawesome5}						% package for icons (see list of available icons here: http://mirrors.ibiblio.org/CTAN/fonts/fontawesome5/doc/fontawesome5.pdf)
+\usepackage[super]{nth}							% when you write \nth{2} you get a nice superscript
+\usepackage[								% coloring of links
+	colorlinks = true,
+	allcolors = cardinal
+]{hyperref} %coloring of links
+
+\usepackage{fontspec}							% package to change fonts				
+\setmainfont[
+	BoldFont=Cormorant Garamond Bold,
+	ItalicFont=Cormorant Garamond Italic,
+	BoldItalicFont=Cormorant Garamond Bold Italic
+]{Cormorant Garamond Regular}						% Set the main font to Comorant Garamond (https://github.com/CatharsisFonts/Cormorant)
+\newfontfamily\GaramondLight{Cormorant Garamond Light}
+\newcommand\textlf[1]{{\GaramondLight#1}}
+
+\newcommand{\highlight}[1]{\textcolor{highlight}{\textbf{#1}}}		% highlight text as bold and with the highlight color defined above
+\newcommand{\ec}{\textsuperscript{\textdagger}}								% Equal contribution dagger
+
+
+% define the header and (not) footer %
+\usepackage{fancyhdr}																		  
+\fancyhf{}
+\rhead{Curriculum Vit\ae}
+\lhead{Sushant Singh}
+\rfoot{Page \thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\begin{document}
+\thispagestyle{empty}					% Turn off header and footer for the first page
+\pagestyle{fancy}			 		% For the rest of the pages switch to the fancy page style defined just above the document begin
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% TITLE %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{-1cm}
+\centering 
+\input{title.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% EDUCATION %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{0.4cm}
+\section{Education}
+\input{education.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% EMPLOYMENT %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{0.1cm}
+\section{Employment}
+\input{employment.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% RESEARCH INTEREST %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Research Interest}
+\input{reserarchinterest.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% PAPERS %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Papers}
+\input{papers.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% SEMINARS AND PRESENTATIONS %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conference and Seminar presentations}
+\input{conference.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% AWARDS AND GRANTS %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Awards and Grants}
+\input{award.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% TEACHING %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Teaching}
+\input{teaching.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% SKILLS %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Skills}
+\input{skills.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% PROFESSIONAL MEMBERSHIPS %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Professional Memberships}
+\input{membership.tex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% REFERENCES %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{References}
+\input{references.tex}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%% LAST UPDATED %%%%%%%%%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+  \end{footnotesize}
+\end{center}
+
+\end{document}
