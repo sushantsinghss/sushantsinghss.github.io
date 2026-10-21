@@ -68,7 +68,9 @@ horizontal: false
 ---
 
 ### Teaching Assistant (University of Oklahoma)
-
+***Fall 2026 for Dr. Mathew Loflin***
++ CAS-1563-002 & 007 & 008 & 009 & 013 Gateway to the Social Sciences
+  
 ***Fall 2025 for Dr. Ibrahim Kekec***
 + ECON 5213-001 Advanced Econometrics
 + ECON 5283-999 Data Visualization With Python
